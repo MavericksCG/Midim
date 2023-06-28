@@ -1,2 +1,6 @@
 # Midim
-Midim is a physics based runner game focusing on graphics and gameplay which can be used as a base for future games.
+### A physics based 3D runner game that can be used as a base for future projects
+---
+**Made with Unity**
+
+![Unity Game Engine Logo](https://i.redd.it/tu3gt6ysfxq71.png)
